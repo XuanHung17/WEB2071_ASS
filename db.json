@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1bskh34g9",
+      "name": "Product 1",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hunglxph06939.appspot.com/o/images%2Fpro12.jpg?alt=media&token=1c965998-947a-44b6-9736-beaa9443ac76",
+      "price": "60000"
+    },
+    {
+      "id": "uqbr05obw",
+      "name": "Product 2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hunglxph06939.appspot.com/o/images%2Fpro1.jpg?alt=media&token=4ef51bb6-8494-4025-a310-064895e8145d",
+      "price": "40000"
+    },
+    {
+      "id": "eipxekvtl",
+      "name": "Product 3",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hunglxph06939.appspot.com/o/images%2Fpro8.jpg?alt=media&token=d3eabde6-4c37-4c49-a000-1565667bf10b",
+      "price": "50008"
+    },
+    {
+      "id": "c8yj12xhs",
+      "name": "Product 5",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hunglxph06939.appspot.com/o/images%2Fpro7.jpg?alt=media&token=9daa8baf-1a30-4fae-81a7-13179e6d80f7",
+      "price": "500000"
+    }
+  ]
+}
